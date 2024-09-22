@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://rikologwirno.github.io/sitemap/sitemap-index.xml
+Sitemap: https://rikologwirno.github.io/sitemap-index.xml
 Host: https://rikologwirno.github.io
